@@ -6,8 +6,8 @@
 
 ### SkillTree 技能树:evergreen_tree:
 #### JavaSE
-- [Java基础知识]()
-- [Java进阶知识]()
+- [Java基础知识](java_basic.md)
+- [Java进阶知识](java_advanced.md)
 #### 数据库
 - MySQL
 - Redis
